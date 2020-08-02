@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a5792ab-a650-423b-ad5c-09fc330f29ba" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\IntelliJ IDEA 2019.3.1\workspace\JsonDemo\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\RepMaven\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1fWyIPti85RDWDEdjtgOqBoh5oB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../excel2config2" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.FastJsonDemo04">
+    <configuration name="FastJsonDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fastJson.FastJsonDemo01" />
+      <module name="JsonDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FastJsonDemo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fastJson.FastJsonDemo02" />
+      <module name="JsonDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FastJsonDemo03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fastJson.FastJsonDemo03" />
+      <module name="JsonDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FastJsonDemo04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fastJson.FastJsonDemo04" />
+      <module name="JsonDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GsonDemo04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gson.GsonDemo04" />
+      <module name="JsonDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FastJsonDemo04" />
+        <item itemvalue="Application.FastJsonDemo03" />
+        <item itemvalue="Application.FastJsonDemo02" />
+        <item itemvalue="Application.FastJsonDemo01" />
+        <item itemvalue="Application.GsonDemo04" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\29652\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a5792ab-a650-423b-ad5c-09fc330f29ba" name="Default Changelist" comment="" />
+      <created>1596348062761</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596348062761</updated>
+      <workItem from="1596348065600" duration="4212000" />
+      <workItem from="1596352311511" duration="342000" />
+      <workItem from="1596352664986" duration="112000" />
+      <workItem from="1596352787808" duration="59000" />
+      <workItem from="1596352857861" duration="6038000" />
+      <workItem from="1596363454846" duration="725000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="721" y="171" key="#com.intellij.ide.util.MemberChooser" timestamp="1596355955165">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="721" y="171" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1596355955165" />
+    <state x="686" y="361" width="548" height="326" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1596355966235">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="686" y="361" width="548" height="326" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1596355966235" />
+    <state x="690" y="221" key="FileChooserDialogImpl" timestamp="1596360257345">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="221" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1596360257345" />
+    <state width="1867" height="443" key="GridCell.Tab.0.bottom" timestamp="1596357002932">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="443" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596357002932" />
+    <state width="1867" height="443" key="GridCell.Tab.0.center" timestamp="1596357002932">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="443" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596357002932" />
+    <state width="1867" height="443" key="GridCell.Tab.0.left" timestamp="1596357002932">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="443" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596357002932" />
+    <state width="1867" height="443" key="GridCell.Tab.0.right" timestamp="1596357002932">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="443" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596357002932" />
+    <state x="440" y="195" key="IDE.errors.dialog" timestamp="1596353124387">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="195" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596353124387" />
+    <state x="495" y="153" key="NewModule_or_Project.wizard" timestamp="1596364351801">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="495" y="153" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1596364351801" />
+    <state x="312" y="0" key="SettingsEditor" timestamp="1596352846405">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="312" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1596352846405" />
+    <state x="567" y="306" key="com.intellij.ide.util.TipDialog" timestamp="1596363454831">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="567" y="306" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596363454831" />
+  </component>
+</project>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35119554-73d0-4da4-9c27-0b3546e57c34" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Json.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JsonDemo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JsonDemo/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JsonDemo/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JsonDemo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JsonDemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JsonDemo/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JsonDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JsonDemo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JsonDemo/JsonDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JsonDemo/target/classes/META-INF/JsonDemo.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JsonDemo/target/classes/bean/ShopInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JsonDemo/target/classes/bean/gsonFormatDemo$ListBean$_$0Bean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JsonDemo/target/classes/bean/gsonFormatDemo$ListBean$_$1Bean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JsonDemo/target/classes/bean/gsonFormatDemo$ListBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JsonDemo/target/classes/bean/gsonFormatDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JsonDemo/target/classes/fastJson/FastJsonDemo01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JsonDemo/target/classes/fastJson/FastJsonDemo02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JsonDemo/target/classes/fastJson/FastJsonDemo03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JsonDemo/target/classes/fastJson/FastJsonDemo04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JsonDemo/target/classes/gson/GsonDemo01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JsonDemo/target/classes/gson/GsonDemo02$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JsonDemo/target/classes/gson/GsonDemo02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JsonDemo/target/classes/gson/GsonDemo03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JsonDemo/target/classes/gson/GsonDemo04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JsonDemo/target/classes/orgJson/FuZaJson.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JsonDemo/target/classes/orgJson/JsonArrayToJavaList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JsonDemo/target/classes/orgJson/JsonToJavaObject.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\IntelliJ IDEA 2019.3.1\workspace\Json\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\RepMaven\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1fXVJQHk5HHnOlPV3PF5paxBvQV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\29652\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35119554-73d0-4da4-9c27-0b3546e57c34" name="Default Changelist" comment="" />
+      <created>1596364351863</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596364351863</updated>
+      <workItem from="1596364354302" duration="977000" />
+    </task>
+    <task id="LOCAL-00001" summary="json,gosn,fastJson测试">
+      <created>1596365252338</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596365252338</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="json,gosn,fastJson测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="json,gosn,fastJson测试" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="468" y="45" key="CommitChangelistDialog2" timestamp="1596365251761">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="468" y="45" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1596365251761" />
+    <state x="452" y="191" key="Vcs.Push.Dialog.v2" timestamp="1596365580371">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="191" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1596365580371" />
+  </component>
+</project>
